@@ -1,0 +1,48 @@
+
+body{
+    background-color:rgb(180, 164, 164);
+}
+
+.position{
+    position:sticky;
+    top:0px;
+   
+ }
+
+/* ----header-------------- */
+.class-nav{
+    display:flex;
+    justify-content:space-between;
+    align-items: center;
+   
+}
+
+.class-nav img{
+    
+    width:50px;
+}
+.mi-clase{
+    z-index:-3;
+}
+.mi-clase img{
+    
+    height:400px;
+    padding:50px;
+}
+.mi-clase p,h3{
+    text-align:center;
+    color:rgb(158, 5, 5);
+    font-size:1.5rem;
+    
+
+}
+
+
+/* ----index------------ */
+
+.mi-carrusel img{
+    
+    height: 400px;
+    border: 3px solid red;
+    
+}
